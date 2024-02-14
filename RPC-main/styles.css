@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    font-family: Arial;
+    padding-left: 30%;
+  }
+  .title{
+    margin-top: 80px;
+    font-size: 35px;
+    font-weight: bold;
+  }
+
+  .scores{
+    font-size: 20px;
+    margin-top: 30px;
+  }
+
+  .rock,.paper,.scissors{
+    margin-right: 25px;
+    margin-bottom: 25px;
+    height: 165px;
+    width: 165px;
+    background-color: black;
+    border-radius: 150px;
+    border-color: white;
+  }
+  .image{
+    height: 70px;
+  }
+
+  .results{
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .move-icon{
+    height: 70px;
+  }
+
+  .reset{
+    padding: 10px 15px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+  }
